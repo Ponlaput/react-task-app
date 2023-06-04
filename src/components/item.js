@@ -1,3 +1,7 @@
-export default funtion Item(){
-    
+export default function Item(){
+    return(
+    <>
+        <p>รายการที่1</p>
+    </>
+    )
 }
