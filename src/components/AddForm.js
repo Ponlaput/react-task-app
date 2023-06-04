@@ -4,7 +4,7 @@ export default function AddForm(){
         <h2>แบบฟอร์มจัดการงาน</h2>
         <form className="form-group">
             <input type="text" className="text-input"/>
-            <button type="submit" className="submit-btn">เพิ่ม</button>
+            <button type="submit" className="submit-btn">เพิ่มลบ</button>
         </form>
         </>
     );
