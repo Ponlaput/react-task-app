@@ -6,7 +6,7 @@ export default function Header(){
             </div>
             <div className="theme-container">
                 <span>โหมดกลางคืน</span>
-                <span>สลับ</span>
+                <span className="icon">สลับ</span>
             </div>
         </header>
     )
